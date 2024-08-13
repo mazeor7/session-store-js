@@ -1,0 +1,39 @@
+{
+  "name": "session-store-js",
+  "version": "1.0.0",
+  "description": "This package provides a robust and flexible session management solution for Express.js applications. It supports two types of session storage: MemoryStore for in-memory storage and FileStore for file system persistence.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/matteotorna/session-store-js"
+  },
+  "keywords": [
+    "express",
+    "session",
+    "memory",
+    "file",
+    "custom",
+    "session-manager",
+    "express-session",
+    "expressjs",
+    "express-js",
+    "filestore",
+    "file-store",
+    "session-store",
+    "store-session",
+    "file store",
+    "memory store",
+    "memory-store",
+    "session store"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.19.2",
+    "fs": "^0.0.1-security",
+    "path": "^0.12.7"
+  }
+}
