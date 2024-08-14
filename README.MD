@@ -160,7 +160,7 @@ sessionManager.store.stopCleanup();
 ```javascript
 const express = require('express');
 const cookieParser = require('cookie-parser');
-const { SessionManager } = require('session-store-js');
+const SessionManager = require('session-store-js');
 
 const app = express();
 app.use(cookieParser());
@@ -232,7 +232,7 @@ app.listen(3000, () => console.log('MemoryStore server running on port 3000'));
 ```javascript
 const express = require('express');
 const cookieParser = require('cookie-parser');
-const { SessionManager } = require('session-store-js');
+const SessionManager = require('session-store-js');
 
 const app = express();
 app.use(cookieParser());
