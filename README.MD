@@ -16,7 +16,7 @@ This package provides a robust and flexible session management solution for Expr
 
 ## Installation
 
-To install PryxAPI, run the following command in your project directory:
+To install session-store-js, run the following command in your project directory:
 
 ```bash
 npm install session-store-js
