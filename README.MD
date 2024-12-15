@@ -4,10 +4,10 @@ This package provides a robust and flexible session management solution for Expr
 
   <div align="center">
   <p>
-    <a href="https://github.com/matteotorna/session-store-js/releases/latest">
-  <img src="https://img.shields.io/github/v/release/matteotorna/session-store-js?style=for-the-badge" alt="GitHub release (latest SemVer)" /></a>
-    <a href="https://github.com/matteotorna/session-store-js/releases/latest">
-    <img src="https://img.shields.io/github/release-date/matteotorna/session-store-js?label=latest%20release&style=for-the-badge" alt="Latest release" /></a>
+    <a href="https://github.com/mazeor7/session-store-js/releases/latest">
+  <img src="https://img.shields.io/github/v/release/mazeor7/session-store-js?style=for-the-badge" alt="GitHub release (latest SemVer)" /></a>
+    <a href="https://github.com/mazeor7/session-store-js/releases/latest">
+    <img src="https://img.shields.io/github/release-date/mazeor7/session-store-js?label=latest%20release&style=for-the-badge" alt="Latest release" /></a>
    <a href="https://www.npmjs.com/package/session-store-js"><img src="https://img.shields.io/npm/v/session-store-js.svg?logo=npm&style=for-the-badge" alt="npm version" /></a>
     <a href="https://www.npmjs.com/package/session-store-js"><img src="https://img.shields.io/npm/dt/session-store-js.svg?style=for-the-badge" alt="NPM downloads" /></a>
   </p>
